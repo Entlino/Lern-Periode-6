@@ -15,19 +15,16 @@
 
 ## 16.08.2024
 
-
+Heute habe ich damit begonnen mir erstmals gedanken zu meinem kommenden Projekt zu machen. Als ich mich schliesslich für etwas entscheiden konnte, bin ich weiter gegangen und habe weiter am Modul 231 gearbeitet. Bei welchem ich nun bis auf einen Auftrag alle Aufträge für kommenden Montag vorgearbeitet habe.
 
 ## 23.08.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] HTML auffrischen sowie Grundgerüst stabilisieren
+- [ ] CSS auffrischen sowie Grundgerüst stabilisieren
+- [ ] Einarbeitung in JavaSkript
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |
-| ... |     |     |     |     |
-| 4   |     |     |     |     |
+https://www.youtube.com/watch?v=MBlkKE0GYGg (Youtube video für HTML & CSS)
+https://www.youtube.com/watch?v=W6NZfCO5SIk (Youtube video für JavaSkript)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
