@@ -1,17 +1,21 @@
-# Lern-Periode 4
+# Lern-Periode 6
 
-23.2 bis 5.4.2024
+16.08.2024 bis 20.09.2024
 
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP5 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP6?
+   Aktuell habe ich einen Notenschnitt von 5.0 im Informatik, eine 5.5 wäre aber vermutlich möglich. Zudem möchte ich jetzt dann damit beginnen Projekte zum     
+   bewerben zu realisieren.
+4. **Neu**: Was möchten Sie Neues lernen?
+   Projekte vom A bis Z durchplanen, realieren und abschliessen.
+6. Was wäre ein geeignetes Projekt für diese LP6?
+   Portfoliowebsite (inkl. einige Programme via Server hosten)
+   
 
 ## 16.08.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+
 
 ## 23.08.2024
 
