@@ -28,7 +28,6 @@ https://www.youtube.com/watch?v=W6NZfCO5SIk (Youtube video für JavaSkript)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## Reflexion
 
