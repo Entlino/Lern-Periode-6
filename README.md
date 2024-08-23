@@ -10,7 +10,7 @@
 4. **Neu**: Was möchten Sie Neues lernen?
    Projekte vom A bis Z durchplanen, realieren und abschliessen.
 6. Was wäre ein geeignetes Projekt für diese LP6?
-   Portfoliowebsite (inkl. einige Programme via Server hosten)
+   Website
    
 
 ## 16.08.2024
