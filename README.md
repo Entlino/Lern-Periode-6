@@ -26,7 +26,7 @@ Heute habe ich damit begonnen mir erstmals gedanken zu meinem kommenden Projekt 
 https://www.youtube.com/watch?v=MBlkKE0GYGg (Youtube video für HTML & CSS)
 https://www.youtube.com/watch?v=W6NZfCO5SIk (Youtube video für JavaSkript)
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich wie in den Arbeitspaketen beschrieben meine Kenntnisse im Bereich HTML und CSS aufgefrischt. Dazu habe ich jedoch noch ein anderes Video dazugenommen anstatt dem eingentlich geplanten Video. Als ich die Repetition abgeschlossen habe, bin ich erstmals dazu übergegangen mich in JavaSkript einzuarbeiten. Jedoch bin ich da nicht all zu sicher und noch relativ am Anfang.
 
 
 ## Reflexion
