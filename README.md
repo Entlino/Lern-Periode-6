@@ -28,6 +28,12 @@ https://www.youtube.com/watch?v=W6NZfCO5SIk (Youtube video für JavaSkript)
 
 Heute habe ich wie in den Arbeitspaketen beschrieben meine Kenntnisse im Bereich HTML und CSS aufgefrischt. Dazu habe ich jedoch noch ein anderes Video dazugenommen anstatt dem eingentlich geplanten Video. Als ich die Repetition abgeschlossen habe, bin ich erstmals dazu übergegangen mich in JavaSkript einzuarbeiten. Jedoch bin ich da nicht all zu sicher und noch relativ am Anfang.
 
+## 30.08.2024
+
+Am heutigen Tage habe ich mich hauptsächlich damit beschäftigt, die Aufträge für den Distanzunterricht vom kommenden Montag zu erledigen; dies ist mir ebenfalls vollständig gelungen.
+
+## 06.09.2024
+
 
 ## Reflexion
 
