@@ -34,7 +34,10 @@ Am heutigen Tage habe ich mich hauptsächlich damit beschäftigt, die Aufträge 
 
 ## 06.09.2024
 
-
+- [ ] Heute möchte ich mir eine Grundlegende Idee für meine Website überlegen und ebenfalls noch ein Thema über welche die Website handelen soll.
+- [ ] Wenn ich diese Idee gefunden habe möchte ich anschliessend die Grundplanung erledigen.
+- [ ] Wenn dies ebenfalls geschafft ist begebe ich mich an die Grundstruktur der Website.
+      
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
