@@ -38,6 +38,6 @@ Am heutigen Tage habe ich mich hauptsächlich damit beschäftigt, die Aufträge 
 - [ ] Wenn ich diese Idee gefunden habe möchte ich anschliessend die Grundplanung erledigen.
 - [ ] Wenn dies ebenfalls geschafft ist begebe ich mich an die Grundstruktur der Website.
       
-## Reflexion
+Heute habe ich mich für ein Thema bzw. eine Idee für meine Website festgelegt. Dabei habe ich mich dazu entschieden, eine Website zu erstellen, auf welcher man simple Spiele spielen kann. Somit kann ich gleichzeitig das Erstellen einer Website lernen. Aber auch zum anderen das Erstellen dieser simplen Spiele. Mit dem grundlegenden Entwickeln der Website habe ich ebenfalls bereits begonnen. 
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+## 13.06.2024
