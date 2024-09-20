@@ -40,4 +40,10 @@ Am heutigen Tage habe ich mich hauptsächlich damit beschäftigt, die Aufträge 
       
 Heute habe ich mich für ein Thema bzw. eine Idee für meine Website festgelegt. Dabei habe ich mich dazu entschieden, eine Website zu erstellen, auf welcher man simple Spiele spielen kann. Somit kann ich gleichzeitig das Erstellen einer Website lernen. Aber auch zum anderen das Erstellen dieser simplen Spiele. Mit dem grundlegenden Entwickeln der Website habe ich ebenfalls bereits begonnen. 
 
-## 13.06.2024
+## 13.09.2024
+
+Aufgrund von Krankheit nicht Anwesend.
+
+## 20.09.2024
+
+- [ ] Nachholen des verpassten Informatikunterricht
