@@ -49,4 +49,4 @@ Aufgrund von Krankheit nicht Anwesend.
 - [ ] Modul 231, Aufträge 1729/1730 erledigen
 - [ ] Website weiter arbeiten
 
-Heute habe ich zuerst damit begonnen die Aufträge vom Modul 231, welche ich verpasst habe, nachzuholen. Als dies geschafft war hatte ich noch zeit übrig an meiner Website weiterzu arbeiten. Dabei konnte ich nun den Fortschritt erzielen ein einfacheres Tic Tac Toe zu erstellen bei welchem wenn jemand gewonnen hat ein Timer beginnt welcher nach 5sek das Spiel resettet.
+yHeute habe ich zuerst damit begonnen die Aufträge vom Modul 231, welche ich verpasst habe, nachzuholen. Als dies geschafft war hatte ich noch zeit übrig an meiner Website weiterzu arbeiten. Dabei konnte ich nun den Fortschritt erzielen ein einfacheres Tic Tac Toe zu erstellen bei welchem wenn jemand gewonnen hat ein Timer beginnt welcher nach 5sek das Spiel resettet.
