@@ -46,5 +46,5 @@ Aufgrund von Krankheit nicht Anwesend.
 
 ## 20.09.2024
 
-- [ ] Nachholen des verpassten Informatikunterricht
+- [ ] Modul 231, Aufträge 1729/1730 erledigen
 - [ ] Website weiter arbeiten
