@@ -47,3 +47,4 @@ Aufgrund von Krankheit nicht Anwesend.
 ## 20.09.2024
 
 - [ ] Nachholen des verpassten Informatikunterricht
+- [ ] Website weiter arbeiten
